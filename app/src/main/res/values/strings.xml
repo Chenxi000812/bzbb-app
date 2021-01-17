@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">包治百病</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">请登录</string>
+    <string name="nav_header_subtitle">您还尚未登录</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">首页</string>
+    <string name="menu_shoppinglist">购物清单</string>
+    <string name="menu_queryorder">订单查询</string>
+    <string name="menu_couponlist">优惠券</string>
+    <string name="menu_aftershop">售后</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
